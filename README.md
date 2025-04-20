@@ -72,6 +72,8 @@ npm install
 npm run dev
 ```
 
+---
+
 ### Setting up Sanity CMS
 
 1. Create a Sanity account
@@ -106,6 +108,8 @@ npm run dev
    stripe listen --forward-to localhost:3000/api/stripe-checkout/webhook
    ```
 
+---
+
 ### Key Components
 
 - Course Management System
@@ -132,6 +136,8 @@ npm run dev
   - Protected routes
   - User roles
 
+---
+
 ## Usage
 
 ### Creating a Course
@@ -148,4 +154,3 @@ npm run dev
 3. Access course content
 4. Track progress through modules
 5. Mark lessons as complete
-6. View completion certificates
